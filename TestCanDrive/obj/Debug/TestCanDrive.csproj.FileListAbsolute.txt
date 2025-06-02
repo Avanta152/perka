@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\TestCanDrive.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\TestCanDrive.pdb
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\obj\Debug\TestCanDrive.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\obj\Debug\TestCanDrive.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\obj\Debug\TestCanD.47BFC39F.Up2Date
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\obj\Debug\TestCanDrive.dll
+C:\Users\admin\source\repos\TestCanDrive\TestCanDrive\obj\Debug\TestCanDrive.pdb
